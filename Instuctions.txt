@@ -1,0 +1,5 @@
+On the api folder, npm install the following:-
+bycrypt, dotenv, express, mongoose, multer, nodemon, path
+
+On the client folder, npm install the following:-
+axios, express, react, react-dom, react-router-dom, react-scripts, web-vitals
