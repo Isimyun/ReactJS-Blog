@@ -7,17 +7,6 @@
 
 <br>
 
-## Table of Contents
-- Features
-- Installation
-- Usage
-- Folder Structure
-- Dependencies
-- API Endpoints
-- Contribution
-
-<br>
-
 ## Features
 - User Authentication: Register and login to access personalized blog posts.
 - CRUD Functionality: Users can create, read, update, and delete blog posts.
@@ -121,3 +110,6 @@ Blod_App
 
 ## Contribution
 Contributions are welcome!
+
+## Demo Video
+[Watch the Demo on Vimeo](https://vimeo.com/1024840176)
