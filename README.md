@@ -14,8 +14,7 @@
 - Folder Structure
 - Dependencies
 - API Endpoints
-- Contributing
-- License
+- Contribution
 
 <br>
 
